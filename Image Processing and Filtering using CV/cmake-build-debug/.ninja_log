@@ -1,0 +1,9 @@
+# ninja log v5
+3	114	7011263518479125	CMakeFiles/Program_1.dir/HeaderUsageSample.c.obj	6b2f305c3e4570e1
+3	155	7011275016221230	Program_1.exe	b34eac3b0e92e4fe
+9	146	7011264987284549	CMakeFiles/Program_1.dir/Image.c.obj	5224a2991b66800d
+4	137	7011216875364811	CMakeFiles/Program_1.dir/BMPHandler.c.obj	19ea5a9488a92ca7
+3	125	7011274872472038	CMakeFiles/Program_1.dir/LastNameImageProcessor.c.obj	bfc5d2616e182d2b
+1	489	7011275031221906	build.ninja	fbc2547b16a1d600
+3	143	7011284724371679	CMakeFiles/Program_1.dir/LastNameImageProcessor.c.obj	bfc5d2616e182d2b
+144	365	7011284726543789	Program_1.exe	b34eac3b0e92e4fe
